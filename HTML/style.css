@@ -1,0 +1,97 @@
+body{
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	line-height: 130%;
+	font-size: 14px;
+	color: #8E9285;
+}
+body img{
+	display: block;
+	border: 0px;
+}
+body ul{
+	float: left;
+}
+body ul li{
+	list-style: none;
+	display: block;
+	width: 270px;
+	float: left;
+	padding: 8px 0;
+	border-bottom: 1px solid #C6C9BD;
+}
+body ul li p{
+	float: left;
+	margin: 0px;
+}
+body ul li p:hover{
+	color: #00003C;
+	font-weight: 500;
+}
+body a{
+	text-decoration: none;
+	cursor: pointer;
+	color: #8E9285;
+}
+h2{
+	font-family: 'Roboto Slab', serif;
+	font-size: 26px;
+	font-weight: 300;
+	color: #00003C;
+	padding: 50px 0 30px 0;
+	margin: 0;
+}
+h3{
+	font-weight: 500;
+	color: #00003C;
+	font-size: 18px;
+	margin: 0;
+	padding-bottom: 18px;
+}
+.conteudo p{
+	color: #00003C;
+	margin: 0;
+}
+
+.conteudo .legenda{
+	font-size: 12px;
+}
+.arrow0{
+	border:0px; float: left;
+	display: block;
+	width:30px; height: 30px;
+}
+.arrow1{
+	text-decoration: none;
+	display: block;
+	border:0px; float: left;
+	background: url('new-img/arrow1-1.png');
+	background-size: 100% 200%;
+	background-position: bottom;
+	width:30px; height: 30px;
+}
+.arrow1:hover{
+	background-position: top !important;
+}
+.arrow2{
+	text-decoration: none;
+	display: block;
+	border:0px; float: left;
+	background: url('new-img/arrow2-1.png');
+	background-size: 100% 200%;
+	background-position: bottom;
+	width:30px; height: 30px;
+	margin-left: 10px;
+}
+.arrow2:hover{
+	background-position: top !important;
+}
+.menu-select{
+	color: #00003C;
+	font-weight: 500;
+}
+
+
+
+
